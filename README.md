@@ -38,12 +38,13 @@ saida/
 
 ## Como executar
 
-1. Abrir o notebook no Google Colab
-2. Executar a célula de instalação das dependências
-3. Montar o Google Drive
-4. Configurar os diretórios do projeto
-5. Executar o Streamlit
-6. Enviar a planilha Excel e gerar os documentos
+## Como testar
+
+1. Abra o notebook no Google Colab.
+2. Execute todas as células.
+3. Utilize a planilha de exemplo disponível na pasta `Modelos para testes`.
+4. Utilize os modelos DOCX disponíveis na pasta.
+5. O sistema irá gerar automaticamente os documentos e PDFs na pasta de saída.
 
 ## Contexto do Projeto
 
