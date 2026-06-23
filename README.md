@@ -36,8 +36,6 @@ entrada/
 saida/
 → PDFs gerados pelo sistema
 
-## Como executar
-
 ## Como testar
 
 1. Abra o notebook no Google Colab.
