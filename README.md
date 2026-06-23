@@ -8,25 +8,26 @@ Sistema desenvolvido em Python para automatizar a geração de advertências e s
 * Identificação de advertências e suspensões
 * Preenchimento automático de modelos DOCX
 * Conversão para PDF
-* Interface web utilizando Streamlit
-* Execução em ambiente Google Colab
+* Interface gráfica com Streamlit
+* Upload de modelos personalizados
+* Geração de relatórios finais
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 * Python
 * Streamlit
 * Pandas
 * OpenPyXL
 * Python-Docx
-* ReportLab
+* PyPDF2
 * Google Colab
 
-## Estrutura do Projeto
+## Estrutura do projeto
 
-* Backend responsável pelo processamento dos dados
+* Notebook principal responsável pela execução do sistema
+* Backend para processamento das regras disciplinares
 * Interface Streamlit para interação do usuário
-* Modelos DOCX para geração dos documentos
-* Exportação final em PDF
+* Integração com Google Drive para armazenamento dos arquivos
 
 ## Autor
 
